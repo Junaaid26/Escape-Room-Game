@@ -19,7 +19,17 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 *.log
+.DS_Store
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+Builds/
 
+Assets/Model/modern_living_room.glb
+Assets/Model/key__keychain.glb
+Assets/Model/handcrafted_japanese_leather_notebook.glb
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be committed to version control.
 *.blend1
 *.blend1.meta
